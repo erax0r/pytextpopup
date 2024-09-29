@@ -1,7 +1,5 @@
 LICENSE
-MANIFEST.in
 README.md
-pytextpopup.py
 setup.py
 pytextpopup.egg-info/PKG-INFO
 pytextpopup.egg-info/SOURCES.txt
