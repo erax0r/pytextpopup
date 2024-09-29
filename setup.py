@@ -7,7 +7,7 @@ setup(
     author="Andrew Goetz",
     author_email="erax0r@gmail.com",
     description="A Python package that displays floating text windows on the screen at the cursor's position. The text can be customized with different fonts, colors, and scroll speeds.",
-    long_description=open("README.md").read(),
+    long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/erax0r/pytextpopup",
     packages=[""],
