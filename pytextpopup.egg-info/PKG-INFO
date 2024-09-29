@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pytextpopup
-Version: 0.1.0
+Version: 0.2.2
 Summary: A Python package that displays floating text windows on the screen at the cursor's position. The text can be customized with different fonts, colors, and scroll speeds.
 Home-page: https://github.com/erax0r/pytextpopup
 Author: Andrew Goetz
